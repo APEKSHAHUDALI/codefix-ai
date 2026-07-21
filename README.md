@@ -1,5 +1,5 @@
 
-# ⚡ AutoCode — Self-Correcting Code Analyzer
+# ⚡ CodeFix-Ai — Self-Correcting Code Analyzer
 
 Paste broken code. Get clean code back — with every issue explained.
 
