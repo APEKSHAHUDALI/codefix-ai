@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="docs/screenshots/editor-page.png" alt="AutoCode editor" width="850"/>
 
 # ⚡ AutoCode — Self-Correcting Code Analyzer
 
@@ -144,14 +141,6 @@ The app runs locally at `http://127.0.0.1:5000` — connect your Groq/OpenAI key
 - Uploaded files are deleted immediately after being read
 - Corrected-code output files are deleted immediately after download
 - File uploads are validated by extension allow-list and size cap (512 KB)
-
-## 🗺 Roadmap
-
-- [ ] Syntax-highlighted diff view (line-by-line, not full-file)
-- [ ] Support for additional local linters per language (ESLint, RuboCop, etc.)
-- [ ] Persistent user accounts with saved analysis history
-- [ ] Streaming AI responses for large files
-- [ ] Dockerfile + docker-compose for one-command deployment
 
 ## 👤 Author
 
