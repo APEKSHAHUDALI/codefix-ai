@@ -8,7 +8,6 @@ Paste broken code. Get clean code back — with every issue explained.
 [![Groq](https://img.shields.io/badge/Groq-llama--3.3--70b-orange)](https://groq.com/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-gpt--4o--mini-412991?logo=openai&logoColor=white)](https://platform.openai.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![CI](https://github.com/APEKSHAHUDALI/autocode/actions/workflows/ci.yml/badge.svg)](https://github.com/APEKSHAHUDALI/autocode/actions/workflows/ci.yml)
 
 [Features](#-features) • [Architecture](#-architecture) • [Getting Started](#-getting-started) • [Screenshots](#-screenshots) • [Roadmap](#-roadmap)
 
