@@ -18,7 +18,7 @@ Paste broken code. Get clean code back — with every issue explained.
 
 ## 📌 Overview
 
-**AutoCode** is a full-stack Flask web app that analyzes and automatically fixes source code across 14 languages. It combines a local Python AST syntax checker with a **three-tier AI provider fallback chain** (Groq → OpenAI → local `autopep8`), so it keeps working even when one AI provider is rate-limited or down.
+**CodeFix-Ai** is a full-stack Flask web app that analyzes and automatically fixes source code across 14 languages. It combines a local Python AST syntax checker with a **three-tier AI provider fallback chain** (Groq → OpenAI → local `autopep8`), so it keeps working even when one AI provider is rate-limited or down.
 
 Users bring their own API keys at runtime (never hard-coded, never written to disk, never logged) — keys live only in the server-side Flask session for the duration of the browser session.
 
